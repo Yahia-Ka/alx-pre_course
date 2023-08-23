@@ -1,1 +1,1 @@
-non empty readme
+Changed for collaboration purposes
